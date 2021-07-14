@@ -1,0 +1,75 @@
+
+*{
+    margin: 0;
+}
+body{
+  background-image: linear-gradient(to right,#F340FA,#F340FA,#F340FA,#F340FA,#7B4AC6,#415EC4,#40699F);
+}
+.top-div{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(to right,#F340FA,#F340FA,#F340FA,#F340FA,#7B4AC6,#415EC4,#40699F);background-color: white;
+    overflow-x: hidden;
+    
+}
+
+.top-div .top{
+    position: relative;
+    height: 350px;
+    width: 100%;
+}
+#login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+    border-radius: 45px;
+    width: 350px;
+    height: 322px;
+    margin-left: 50px;
+   right: 60px;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+  .center{
+      
+      position: relative;
+     
+      width: 100%;
+  }
+  .container1{
+    
+    margin: 28px;
+    background-color:rgb(241, 205, 235);
+    font-size: 20px;
+    border-radius: 7px;
+    padding: 20px;
+    font-family: 'Dancing Script', cursive; 
+
+  }
+  .nav-link:hover{border: 3px solid blue;
+    border-radius: 5px;
+    
+  }
+  .hr1{
+  margin: 28px;
+    background-color:rgb(241, 205, 235);
+    font-size: 20px;
+    border-radius: 7px;
+    padding: 20px;
+    font-family: 'Dancing Script', cursive;
+    
+  }
+  .hr2{
+    display:flex;
+    justify-content: center;
+  }
+h1{
+  font-family: 'Otomanopee One', sans-serif;
+}
